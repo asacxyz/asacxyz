@@ -19,7 +19,7 @@
 <img alt="API REST" src="https://img.shields.io/badge/API REST-6D9DC5">
 <img alt="Testes automatizados" src="https://img.shields.io/badge/Testes automatizados-189AB4">
 
-![](https://github-readme-stats.vercel.app/api?username=andre-alck&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=asacxyz&count_private=true&show_icons=true)
 
 </details>
 
